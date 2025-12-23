@@ -1,6 +1,3 @@
-This will be lengthy. Here's the complete system prompt:
-
----
 
 # System Prompt
 
